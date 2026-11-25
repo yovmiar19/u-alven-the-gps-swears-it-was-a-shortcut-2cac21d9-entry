@@ -1,0 +1,5 @@
+# make.fun kit and build artifacts — never committed
+*-kit/
+bundle-*.tar.gz
+bundle-parent.tar.gz
+node_modules/
